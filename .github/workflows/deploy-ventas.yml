@@ -10,7 +10,7 @@ on:
 env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: innovatech/ventas-api
-  ECS_CLUSTER: innovatech-cluster
+  ECS_CLUSTER: innovatech-cluster-devops
   ECS_SERVICE: ventas-api-service
   CONTAINER_NAME: ventas-api
 

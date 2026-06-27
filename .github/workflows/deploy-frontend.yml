@@ -10,7 +10,7 @@ on:
 env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: innovatech/front-despacho
-  ECS_CLUSTER: innovatech-cluster
+  ECS_CLUSTER: innovatech-cluster-devops
   ECS_SERVICE: front-despacho-service
   CONTAINER_NAME: front-despacho
 
