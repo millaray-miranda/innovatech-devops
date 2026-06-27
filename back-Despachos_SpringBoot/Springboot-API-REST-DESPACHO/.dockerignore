@@ -17,4 +17,4 @@ Dockerfile*
 
 # Ignora archivos temporales
 *.swp
-*~
+*~fix 
